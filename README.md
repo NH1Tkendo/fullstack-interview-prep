@@ -63,4 +63,4 @@ Mỗi giai đoạn dưới đây được quản lý trong một Repository riê
 - [ ] **Phỏng vấn Hành vi:** Chuẩn bị câu trả lời theo mô hình STAR.
 
 ---
-*Cập nhật lần cuối: [Điền ngày tháng năm]*
+*Cập nhật lần cuối: [08/03/2026]*
